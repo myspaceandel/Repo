@@ -1,0 +1,11 @@
+C:\Users\Serhiy Ivanochko\Documents\Visual Studio 2015\Projects\FileGenerator\Upload Client\bin\Debug\Upload Client.exe.config
+C:\Users\Serhiy Ivanochko\Documents\Visual Studio 2015\Projects\FileGenerator\Upload Client\bin\Debug\Upload Client.exe
+C:\Users\Serhiy Ivanochko\Documents\Visual Studio 2015\Projects\FileGenerator\Upload Client\bin\Debug\Upload Client.pdb
+C:\Users\Serhiy Ivanochko\Documents\Visual Studio 2015\Projects\FileGenerator\Upload Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Serhiy Ivanochko\Documents\Visual Studio 2015\Projects\FileGenerator\Upload Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Serhiy Ivanochko\Documents\Visual Studio 2015\Projects\FileGenerator\Upload Client\obj\Debug\Upload_Client.Form1.resources
+C:\Users\Serhiy Ivanochko\Documents\Visual Studio 2015\Projects\FileGenerator\Upload Client\obj\Debug\Upload_Client.Properties.Resources.resources
+C:\Users\Serhiy Ivanochko\Documents\Visual Studio 2015\Projects\FileGenerator\Upload Client\obj\Debug\Upload Client.csproj.GenerateResource.Cache
+C:\Users\Serhiy Ivanochko\Documents\Visual Studio 2015\Projects\FileGenerator\Upload Client\obj\Debug\Upload Client.exe
+C:\Users\Serhiy Ivanochko\Documents\Visual Studio 2015\Projects\FileGenerator\Upload Client\obj\Debug\Upload Client.pdb
+C:\Users\Serhiy Ivanochko\Documents\Visual Studio 2015\Projects\FileGenerator\Upload Client\obj\Debug\Upload Client.csprojResolveAssemblyReference.cache
